@@ -29,3 +29,7 @@
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img src="https://github.com/canxin121/nonebot_paddle_ocr/blob/main/demo/demo%20(1).jpg" width="200"> | <img src="https://github.com/canxin121/nonebot_paddle_ocr/blob/main/demo/demo%20(2).jpg" width="200"> | <img src="https://github.com/canxin121/nonebot_paddle_ocr/blob/main/demo/demo%20(3).jpg" width="200">|
+
+## 开源协议
+
+本项目使用了Paddle OCR，并遵守了Apache License 2.0开源协议。
