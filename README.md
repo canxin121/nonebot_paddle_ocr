@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/your_username/nonebot_paddle_ocr"><img src="your_logo.png" width="200" height="200" alt="nonebot_paddle_ocr"></a>
+  <a href="https://github.com/your_username/nonebot_paddle_ocr"><img src="[nonebot_logo.png](https://v2.nonebot.dev/logo.png)" width="200" height="200" alt="nonebot_paddle_ocr"></a>
 </p>
 <div align="center">
 
