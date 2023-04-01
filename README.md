@@ -26,8 +26,6 @@
 
 ## 示例
   
-<p float="left">
-  <img src="https://github.com/canxin121/nonebot_paddle_ocr/blob/main/demo/demo%20(1).jpg" width="200" style="vertical-align:top;" />
-  <img src="https://github.com/canxin121/nonebot_paddle_ocr/blob/main/demo/demo%20(2).jpg" width="200" style="vertical-align:top;" /> 
-  <img src="https://github.com/canxin121/nonebot_paddle_ocr/blob/main/demo/demo%20(3).jpg" width="200" style="vertical-align:top;" />
-</p>
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img src="https://github.com/canxin121/nonebot_paddle_ocr/blob/main/demo/demo%20(1).jpg" width="200"> | <img src="https://github.com/canxin121/nonebot_paddle_ocr/blob/main/demo/demo%20(2).jpg" width="200"> | <img src="https://github.com/canxin121/nonebot_paddle_ocr/blob/main/demo/demo%20(3).jpg" width="200">|
