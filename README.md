@@ -26,4 +26,6 @@
 
 ## 示例
 
-// 在这里添加示例图片或代码
+![demo1](https://github.com/canxin121/nonebot_paddle_ocr/blob/main/demo/demo%20(1).jpg)
+![demo2](https://github.com/canxin121/nonebot_paddle_ocr/blob/main/demo/demo%20(2).jpg)
+![demo3](https://github.com/canxin121/nonebot_paddle_ocr/blob/main/demo/demo%20(3).jpg)
