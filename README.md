@@ -25,7 +25,9 @@
 2. 网页api识别：发送 `/apiocr`，仅支持中英文和数字标点的照片，不可切换语言，其余用法同上。
 
 ## 示例
-
-![demo1](https://github.com/canxin121/nonebot_paddle_ocr/blob/main/demo/demo%20(1).jpg)
-![demo2](https://github.com/canxin121/nonebot_paddle_ocr/blob/main/demo/demo%20(2).jpg)
-![demo3](https://github.com/canxin121/nonebot_paddle_ocr/blob/main/demo/demo%20(3).jpg)
+  
+<p float="left">
+  <img src="https://github.com/canxin121/nonebot_paddle_ocr/blob/main/demo/demo%20(1).jpg" width="200" />
+  <img src="https://github.com/canxin121/nonebot_paddle_ocr/blob/main/demo/demo%20(2).jpg" width="200" /> 
+  <img src="https://github.com/canxin121/nonebot_paddle_ocr/blob/main/demo/demo%20(3).jpg" width="200" />
+</p>
