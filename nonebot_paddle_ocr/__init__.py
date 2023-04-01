@@ -58,7 +58,7 @@ async def handle_ocr(event: MessageEvent):
     que.append(user_id)
     language.update({user_id:'ch'})
     await start_ocr.send("开始本地ocr识别模式,支持中英文(ch)、英文(en)、法语(french)、德语(german)、韩语(korean)、日语(japan),"
-                         "默认ch，如需切换请在相应图片前先输入语言（英文简称），再发送图片。")
+                         "默认ch，如需切换请在相应图片或pdf前先输入语言（英文简称），再发送图片或pdf。")
 
 
 page = 0
