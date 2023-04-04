@@ -15,9 +15,17 @@
 - 支持图片和PDF格式
 - 支持连续对话
 
-## 安装
-
-目前未上架，可自行下载/git后放到nonebot2的plugin/site_pacages下使用
+## 安装  
+# nb安装
+```
+nb plugin install nonebot-paddle-ocr
+```
+# pip安装并把本插件添加到pyproject.toml中  
+```
+pip install nonebot-paddle-ocr
+```
+# 手动安装
+下载/git后放到nonebot2的plugin/site_pacages下使用
 需要安装依赖，在本项目目录下pip install -r requirements即可
 ## 使用方法
 
